@@ -1,0 +1,1 @@
+pyCryptoPayAPI==1.0.6
